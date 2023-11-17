@@ -27,7 +27,7 @@ W tym zadaniu musisz stworzyć modele **segmentacji** obrazów z wykorzystaniem 
 * Sugerowana biblioteka: https://github.com/QUVA-Lab/e2cnn
 * Pamiętaj o odpowiednim podziale zbioru na train, val oraz test.
 * Zastanów się, jakie metryki do oceny rozwiązania wybrać.
-* Sugerowane modele: E(3)-UNet, GCNN
+* Sugerowane modele: E(2)-UNet, GCNN
 
 
 ### Zadanie 3 - Generowanie Danych 
