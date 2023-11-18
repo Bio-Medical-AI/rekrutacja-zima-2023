@@ -24,7 +24,7 @@ W tym zadaniu musisz stworzyć modele **segmentacji** obrazów z wykorzystaniem 
 
 #### Uwagi i porady
 * Tutaj znajduje się dobry tutorial dotyczący grupowo-ekwiwariantnych sieci neuronowych: https://www.youtube.com/watch?v=z2OEyUgSH2c
-* Sugerowana biblioteka: https://github.com/QUVA-Lab/e2cnn
+* Sugerowana biblioteka: https://github.com/QUVA-Lab/escnn
 * Pamiętaj o odpowiednim podziale zbioru na train, val oraz test.
 * Zastanów się, jakie metryki do oceny rozwiązania wybrać.
 * Sugerowane modele: E(2)-UNet, GCNN
